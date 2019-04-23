@@ -1,0 +1,11 @@
+{
+    "name": "tournament-organiser",
+    "version": "0.1.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "electron": "^4.1.4"
+    }
+}
