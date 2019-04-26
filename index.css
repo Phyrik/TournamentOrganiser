@@ -2,3 +2,7 @@ body {
     background-color: #24292e;
     color: #ffffff;
 }
+
+ul li {
+    padding: 10px;
+}
